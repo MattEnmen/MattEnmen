@@ -70,17 +70,3 @@ Me interesa seguir ampliando mis conocimientos en desarrollo de software, backen
 Disfruto experimentar con nuevas tecnologías, desarrollar proyectos propios y crear herramientas que permitan simplificar tareas cotidianas.
 
 Mi objetivo es seguir aprendiendo y mejorando mediante la práctica, la curiosidad y la resolución de problemas reales.
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/edwan-alexander-carrillo-cuervo-5897b3279/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:edwan13alexander@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://discord.gg/CGaKfDd3">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</p>
