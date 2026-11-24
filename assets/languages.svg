@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="236" viewBox="0 0 600 236" role="img" aria-label="Lenguajes utilizados en mis proyectos">
+<title>Lenguajes utilizados en mis proyectos</title>
+<rect x="0.5" y="0.5" width="599" height="235" rx="12" fill="#0d1117" stroke="#30363d"/>
+<g font-family="Verdana, DejaVu Sans, sans-serif">
+<text x="24" y="34" font-size="19" font-weight="bold" fill="#e6edf3">Lenguajes utilizados</text>
+<defs><clipPath id="bar"><rect x="24" y="52" width="552" height="12" rx="6"/></clipPath></defs>
+<g clip-path="url(#bar)">
+<rect x="24.0000" y="52" width="194.4920" height="12" fill="#563d7c"/>
+<rect x="218.4920" y="52" width="151.2682" height="12" fill="#dea584"/>
+<rect x="369.7602" y="52" width="84.8369" height="12" fill="#3572A5"/>
+<rect x="454.5971" y="52" width="64.8485" height="12" fill="#89e051"/>
+<rect x="519.4456" y="52" width="28.1267" height="12" fill="#f1e05a"/>
+<rect x="547.5723" y="52" width="25.5588" height="12" fill="#e34c26"/>
+<rect x="573.1311" y="52" width="2.2619" height="12" fill="#000080"/>
+<rect x="575.3931" y="52" width="0.6069" height="12" fill="#79c0ff"/>
+</g>
+<circle cx="30" cy="87" r="5" fill="#563d7c"/>
+<text x="42" y="91" font-size="12" fill="#e6edf3"><title>CSS</title>CSS</text>
+<text x="284" y="91" text-anchor="end" font-size="12" fill="#b1bac4">35.23%</text>
+<circle cx="314" cy="87" r="5" fill="#dea584"/>
+<text x="326" y="91" font-size="12" fill="#e6edf3"><title>Rust</title>Rust</text>
+<text x="568" y="91" text-anchor="end" font-size="12" fill="#b1bac4">27.40%</text>
+<circle cx="30" cy="117" r="5" fill="#3572A5"/>
+<text x="42" y="121" font-size="12" fill="#e6edf3"><title>Python</title>Python</text>
+<text x="284" y="121" text-anchor="end" font-size="12" fill="#b1bac4">15.37%</text>
+<circle cx="314" cy="117" r="5" fill="#89e051"/>
+<text x="326" y="121" font-size="12" fill="#e6edf3"><title>Shell</title>Shell</text>
+<text x="568" y="121" text-anchor="end" font-size="12" fill="#b1bac4">11.75%</text>
+<circle cx="30" cy="147" r="5" fill="#f1e05a"/>
+<text x="42" y="151" font-size="12" fill="#e6edf3"><title>JavaScript</title>JavaScript</text>
+<text x="284" y="151" text-anchor="end" font-size="12" fill="#b1bac4">5.10%</text>
+<circle cx="314" cy="147" r="5" fill="#e34c26"/>
+<text x="326" y="151" font-size="12" fill="#e6edf3"><title>HTML</title>HTML</text>
+<text x="568" y="151" text-anchor="end" font-size="12" fill="#b1bac4">4.63%</text>
+<circle cx="30" cy="177" r="5" fill="#000080"/>
+<text x="42" y="181" font-size="12" fill="#e6edf3"><title>Lua</title>Lua</text>
+<text x="284" y="181" text-anchor="end" font-size="12" fill="#b1bac4">0.41%</text>
+<circle cx="314" cy="177" r="5" fill="#79c0ff"/>
+<text x="326" y="181" font-size="12" fill="#e6edf3"><title>Luau</title>Luau</text>
+<text x="568" y="181" text-anchor="end" font-size="12" fill="#b1bac4">0.11%</text>
+</g></svg>
