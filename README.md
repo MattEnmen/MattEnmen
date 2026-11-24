@@ -60,7 +60,7 @@ Actualmente estoy enfocado en:
 ## 📊 Lenguajes utilizados en mis proyectos
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattEnmen&layout=compact&theme=transparent&hide_border=true&langs_count=12&locale=es" alt="Lenguajes más utilizados">
+  <img src="./assets/languages.svg" alt="Lenguajes utilizados en mis proyectos">
 </p>
 
 ## 📚 Actualmente aprendiendo
