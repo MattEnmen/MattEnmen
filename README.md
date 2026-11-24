@@ -5,7 +5,7 @@
 
 Actualmente estoy enfocado en:
 
-- 🐍 Desarrollo de aplicaciones y herramientas con Python
+- 🐍 Desarrollo de aplicaciones y herramientas.
 - 🌐 Desarrollo web y backend
 - ⚙️ Automatización y scripting
 - 🐧 Linux y administración de sistemas
